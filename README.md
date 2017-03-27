@@ -1,4 +1,6 @@
 # androidNotes
+
+* [网易学习平台](http://study.163.com/category/android?utm_source=baidu&utm_medium=cpc&utm_campaign=affiliate&utm_term=IT-213&utm_content=SEM)
 * 1.由来
    最初由安迪·鲁宾研发，于2005年被谷歌收购，android名字来源于安迪小时候所玩的一款游戏的人物名，图标由设计师看见厕所图标所获得的灵感
 * android2.3开始支持NFC(进场通信技术),android3.0开始支持平板,4.1.2是4.0之后比较稳定的版本
