@@ -18,5 +18,4 @@
 ```
 * ART模式：android runtime简称，安装的时候免去了dalvik模式转换机器吗时间，直接将代码转换为机器码，好处：程序运行时，无需时时转换，运行速度快，缺点：安装时间长，占用内存大
 
-8.4
-
+* [android studio教程](http://ask.android-studio.org/?/article/86)
